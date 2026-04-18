@@ -7,3 +7,4 @@ __pycache__/
 output/*.csv
 .vscode/
 .idea/
+local_docs/
